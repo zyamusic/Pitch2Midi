@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/create_midifile_example.dir/main.cpp.o CMakeFiles/create_midifile_example.dir/MidiEvent.cpp.o CMakeFiles/create_midifile_example.dir/MidiEventList.cpp.o CMakeFiles/create_midifile_example.dir/MidiFile.cpp.o CMakeFiles/create_midifile_example.dir/MidiMessage.cpp.o CMakeFiles/create_midifile_example.dir/Binasc.cpp.o  -o create_midifile_example 

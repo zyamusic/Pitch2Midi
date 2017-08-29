@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmidifile_sapp.a  CMakeFiles/midifile_sapp.dir/MidiEvent.cpp.o CMakeFiles/midifile_sapp.dir/MidiEventList.cpp.o CMakeFiles/midifile_sapp.dir/MidiFile.cpp.o CMakeFiles/midifile_sapp.dir/MidiMessage.cpp.o CMakeFiles/midifile_sapp.dir/Binasc.cpp.o
+/usr/bin/ranlib libmidifile_sapp.a

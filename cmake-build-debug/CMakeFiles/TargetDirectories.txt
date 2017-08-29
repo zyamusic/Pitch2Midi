@@ -1,0 +1,4 @@
+/home/developer/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/developer/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/CLionProjects/untitled/cmake-build-debug/CMakeFiles/create_midifile_example.dir
+/home/developer/CLionProjects/untitled/cmake-build-debug/CMakeFiles/midifile_sapp.dir

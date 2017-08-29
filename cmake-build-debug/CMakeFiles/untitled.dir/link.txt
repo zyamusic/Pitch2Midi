@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuntitled.a  CMakeFiles/untitled.dir/MidiEvent.cpp.o CMakeFiles/untitled.dir/MidiEventList.cpp.o CMakeFiles/untitled.dir/MidiFile.cpp.o CMakeFiles/untitled.dir/MidiMessage.cpp.o
+/usr/bin/ranlib libuntitled.a
